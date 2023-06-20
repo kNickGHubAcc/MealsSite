@@ -1,0 +1,6 @@
+root = true         #Δηλώνει ότι το .editorcοnfig αποτελεί το κύριο αρχείο configuration της εφαρμογής
+
+[*]
+indent_size = 2
+tab_width = 2
+charset = utf-8
